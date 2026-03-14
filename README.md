@@ -8,12 +8,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=alfredphiri&theme=dark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🎯 Currently Working On
 
 -  Project 1
@@ -40,5 +34,3 @@ Feel free to reach out if you want to collaborate, have questions, or just want 
 ---
 
 **Thanks for visiting my profile!** 😊
-
-![Visitor Count](https://profile-counter.glitch.me/alfredphiri/count.svg)
