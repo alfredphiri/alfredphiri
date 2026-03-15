@@ -1,4 +1,4 @@
-## 📊 Github Stats
+## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfredphiri&show_icons=true&theme=dark&count_private=true)
 
@@ -8,14 +8,14 @@
 
 ---
 
-## 🎯 Currently Working On
+## Currently Working On
 
 -  Learning new technologies
-- 💡 Building something awesome
+-  Building something awesome
 
 ---
 
-## 💬 Let's Connect
+## Let's Connect
 
 Feel free to reach out if you want to collaborate, have questions, or just want to chat about tech!
 
@@ -27,8 +27,8 @@ Feel free to reach out if you want to collaborate, have questions, or just want 
 
 ## ⚡ Fun Facts
 
-- 🎮 I love coding
-- ☕ Coffee enthusiast
+- I love coding
+- Coffee enthusiast
 
 ---
 
