@@ -10,7 +10,6 @@
 
 ## 🎯 Currently Working On
 
--  Project 1
 -  Learning new technologies
 - 💡 Building something awesome
 
