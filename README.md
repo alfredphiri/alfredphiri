@@ -25,7 +25,7 @@ Feel free to reach out if you want to collaborate, have questions, or just want 
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
 - I love coding
 - Coffee enthusiast
