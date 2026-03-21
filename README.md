@@ -1,8 +1,11 @@
-## Github Stats
+[![committers.top badge](https://user-badge.committers.top/malawi/alfredphiri.svg)](https://committers.top/malawi)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfredphiri&show_icons=true&theme=dark&count_private=true)
+## Github Stats
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredphiri&layout=compact&theme=dark)
+---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=alfredphiri&theme=dark)
 
@@ -32,4 +35,4 @@ Feel free to reach out if you want to collaborate, have questions, or just want 
 
 ---
 
-**Thanks for visiting my profile!** 😊
+**⟬@2026 AlfredPHiri⟭**
